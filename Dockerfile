@@ -5,8 +5,6 @@ FROM postgres:${PG_VERSION}-alpine${ALPINE_VERSION}
 FROM alpine:${ALPINE_VERSION}
 
 # Set PostgreSQL and Alpine version
-#ARG ALPINE_VERSION=3.22
-#ARG PG_VERSION=17.5
 
 # Install PostgreSQL client (version 17)
 # Alpine ${ALPINE_VERSION} includes PostgreSQL 17

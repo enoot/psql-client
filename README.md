@@ -4,7 +4,7 @@ Docker images for PostgreSQL client based on Alpine Linux.
 
 ## Features
 
-- Lightweight Alpine Linux base (Alpine 3.21)
+- Lightweight Alpine Linux base (Alpine 3.22)
 - PostgreSQL client version 17.5
 - Runs as non-root user for security
 - Automatically built and pushed to GitHub Container Registry (GHCR)
